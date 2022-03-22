@@ -23,8 +23,3 @@ GO
 
 SELECT * FROM HISTORY
 ORDER BY id_game;
-
-
-DROP TABLE word;
-DROP TABLE text;
-DROP TABLE Persons;
